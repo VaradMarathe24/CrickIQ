@@ -1,0 +1,501 @@
+Player,Team,Matches,Runs,Wickets,Strike Rate,Economy Rate,Catches,Stumpings,Player Role
+Player_1,Delhi Capitals,20,1922.5,97.34,118.65,10.84,10.03,4.84,Bowler
+Player_2,Chennai Super Kings,40,1957.0,48.0,113.22,5.72,33.0,14.0,All-Rounder
+Player_3,Rajasthan Royals,22,356.78,83.28,108.05,5.95,4.71,8.15,Wicket-Keeper
+Player_4,Mumbai Indians,12,208.0,81.0,162.84,11.87,8.0,9.0,All-Rounder
+Player_5,Royal Challengers Bangalore,48,146.0,25.0,112.3,9.25,16.0,9.0,Bowler
+Player_6,Punjab Kings,8,542.0,3.0,133.7,9.99,15.0,9.0,Bowler
+Player_7,Delhi Capitals,14,1013.0,12.0,108.41,7.03,10.0,14.0,All-Rounder
+Player_8,Sunrisers Hyderabad,17,1063.0,92.0,162.18,7.23,40.0,11.0,Wicket-Keeper
+Player_9,Royal Challengers Bangalore,2,378.0,61.0,100.74,10.07,19.0,7.0,Wicket-Keeper
+Player_10,Mumbai Indians,34,1371.95,75.74,90.45,9.63,44.2,15.43,Batsman
+Player_11,Mumbai Indians,41,470.0,84.0,87.74,10.05,14.0,9.0,Wicket-Keeper
+Player_12,Delhi Capitals,9,1079.45,71.29,163.56,7.01,21.89,4.97,All-Rounder
+Player_13,Sunrisers Hyderabad,1,1487.0,98.0,115.02,8.98,36.0,15.0,Bowler
+Player_14,Royal Challengers Bangalore,17,1598.0,72.0,123.97,5.18,42.0,19.0,Batsman
+Player_15,Punjab Kings,4,431.0,0.0,176.24,6.49,15.0,16.0,Batsman
+Player_16,Mumbai Indians,15,1105.0,72.0,126.38,9.88,7.0,10.0,Bowler
+Player_17,Royal Challengers Bangalore,35,800.0,28.0,156.13,8.43,38.0,15.0,Wicket-Keeper
+Player_18,Mumbai Indians,18,845.0,63.0,117.59,9.6,25.0,19.0,Bowler
+Player_19,Kolkata Knight Riders,26,995.0,19.0,109.31,6.91,34.0,11.0,Wicket-Keeper
+Player_20,Delhi Capitals,48,314.0,31.0,151.37,8.63,35.0,12.0,Bowler
+Player_21,Rajasthan Royals,40,413.0,43.0,80.72,9.52,32.0,0.0,All-Rounder
+Player_22,Sunrisers Hyderabad,26,707.0,35.0,148.72,8.89,39.0,17.0,Wicket-Keeper
+Player_23,Chennai Super Kings,35,1281.68,84.37,162.4,11.22,45.35,7.21,All-Rounder
+Player_24,Royal Challengers Bangalore,38,779.0,50.0,128.98,6.55,40.0,0.0,Batsman
+Player_25,Delhi Capitals,35,381.0,41.0,99.93,9.92,20.0,13.0,Bowler
+Player_26,Chennai Super Kings,4,224.0,73.0,111.36,10.38,49.0,10.0,Batsman
+Player_27,Chennai Super Kings,26,1417.0,72.0,149.77,5.38,42.0,3.0,Batsman
+Player_28,Mumbai Indians,42,424.0,89.0,170.72,8.88,24.0,3.0,Batsman
+Player_29,Rajasthan Royals,33,1006.0,17.0,168.03,10.0,34.0,15.0,Batsman
+Player_30,Mumbai Indians,43,70.0,71.0,166.51,6.75,35.0,14.0,Bowler
+Player_31,Sunrisers Hyderabad,14,37.09,14.29,143.89,6.79,23.25,2.7,Batsman
+Player_32,Royal Challengers Bangalore,26,1686.0,84.0,178.93,11.25,10.0,19.0,Bowler
+Player_33,Punjab Kings,30,378.0,13.0,171.5,9.68,31.0,14.0,Bowler
+Player_34,Sunrisers Hyderabad,12,692.99,45.2,130.66,6.37,20.63,13.09,All-Rounder
+Player_35,Chennai Super Kings,18,1181.0,74.0,156.18,8.55,38.0,8.0,Wicket-Keeper
+Player_36,Royal Challengers Bangalore,46,1463.0,37.0,91.24,9.43,39.0,6.0,Wicket-Keeper
+Player_37,Rajasthan Royals,35,637.0,56.0,163.04,9.63,14.0,14.0,Bowler
+Player_38,Delhi Capitals,36,740.0,14.0,117.68,11.19,17.0,15.0,All-Rounder
+Player_39,Sunrisers Hyderabad,8,577.0,59.0,149.3,8.24,1.0,11.0,Bowler
+Player_40,Rajasthan Royals,9,296.0,77.0,154.27,6.32,22.0,2.0,Bowler
+Player_41,Delhi Capitals,31,506.0,46.0,93.0,11.62,19.0,16.0,Bowler
+Player_42,Kolkata Knight Riders,46,1945.0,8.0,177.08,7.98,4.0,2.0,All-Rounder
+Player_43,Royal Challengers Bangalore,5,1690.0,11.0,138.94,10.8,36.0,7.0,Wicket-Keeper
+Player_44,Sunrisers Hyderabad,30,1220.0,88.0,138.61,7.97,7.0,14.0,All-Rounder
+Player_45,Mumbai Indians,25,1620.0,45.0,132.11,9.31,3.0,0.0,Batsman
+Player_46,Delhi Capitals,2,1610.0,59.0,121.63,8.74,2.0,8.0,All-Rounder
+Player_47,Chennai Super Kings,14,347.0,11.0,91.34,7.36,8.0,16.0,All-Rounder
+Player_48,Mumbai Indians,21,1082.0,21.0,171.47,5.47,9.0,6.0,All-Rounder
+Player_49,Delhi Capitals,30,1595.0,36.0,134.94,11.35,7.0,2.0,All-Rounder
+Player_50,Kolkata Knight Riders,26,747.0,21.0,134.36,5.11,22.0,16.0,Wicket-Keeper
+Player_51,Mumbai Indians,36,1684.0,28.0,153.1,5.37,27.0,15.0,Batsman
+Player_52,Delhi Capitals,8,1564.0,60.0,172.19,8.66,20.0,6.0,Wicket-Keeper
+Player_53,Punjab Kings,37,1337.0,38.0,129.54,8.19,3.0,10.0,Wicket-Keeper
+Player_54,Delhi Capitals,11,218.0,30.0,159.42,6.38,12.0,14.0,All-Rounder
+Player_55,Kolkata Knight Riders,19,1513.0,22.0,91.09,10.58,27.0,5.0,Bowler
+Player_56,Royal Challengers Bangalore,36,1946.0,0.0,96.92,9.97,0.0,7.0,Bowler
+Player_57,Royal Challengers Bangalore,43,1521.0,30.0,133.36,9.34,15.0,1.0,Wicket-Keeper
+Player_58,Rajasthan Royals,20,1640.0,74.0,165.32,10.93,1.0,1.0,Wicket-Keeper
+Player_59,Punjab Kings,17,240.0,96.0,93.84,10.59,32.0,9.0,All-Rounder
+Player_60,Kolkata Knight Riders,2,1249.0,50.0,118.68,6.65,38.0,18.0,Wicket-Keeper
+Player_61,Kolkata Knight Riders,21,685.0,97.0,102.73,10.84,41.0,11.0,All-Rounder
+Player_62,Royal Challengers Bangalore,16,932.0,86.0,82.17,8.24,17.0,3.0,Bowler
+Player_63,Royal Challengers Bangalore,41,895.0,23.0,85.41,10.09,5.0,15.0,Bowler
+Player_64,Punjab Kings,45,1415.13,3.72,144.99,10.45,23.39,4.19,Batsman
+Player_65,Chennai Super Kings,12,1605.0,98.0,98.38,6.83,13.0,9.0,Bowler
+Player_66,Chennai Super Kings,28,1772.0,59.0,84.62,5.51,46.0,2.0,Wicket-Keeper
+Player_67,Sunrisers Hyderabad,21,1829.0,73.0,123.57,6.23,25.0,15.0,Bowler
+Player_68,Rajasthan Royals,33,1872.0,66.0,100.76,9.71,22.0,15.0,All-Rounder
+Player_69,Punjab Kings,33,1017.01,21.83,99.86,12.07,3.94,6.48,Bowler
+Player_70,Mumbai Indians,45,1224.0,16.0,140.32,8.4,49.0,3.0,Batsman
+Player_71,Sunrisers Hyderabad,46,77.74,6.86,145.75,9.34,43.32,0.98,Bowler
+Player_72,Punjab Kings,26,497.0,51.0,90.12,6.49,45.0,12.0,All-Rounder
+Player_73,Kolkata Knight Riders,12,331.0,55.0,155.22,11.87,15.0,14.0,All-Rounder
+Player_74,Chennai Super Kings,13,107.02,41.95,126.55,5.48,24.04,18.41,Wicket-Keeper
+Player_75,Sunrisers Hyderabad,38,789.0,46.0,113.97,9.93,29.0,3.0,Bowler
+Player_76,Chennai Super Kings,19,304.0,78.0,142.78,9.39,7.0,10.0,All-Rounder
+Player_77,Chennai Super Kings,39,1177.22,36.13,90.91,6.92,7.03,17.05,Batsman
+Player_78,Delhi Capitals,5,554.96,50.21,121.76,7.36,13.97,5.68,Wicket-Keeper
+Player_79,Punjab Kings,28,883.0,37.0,118.15,7.6,20.0,13.0,Batsman
+Player_80,Royal Challengers Bangalore,38,1202.0,79.0,161.72,6.97,15.0,0.0,Bowler
+Player_81,Rajasthan Royals,12,1854.0,11.0,132.19,10.04,33.0,19.0,Bowler
+Player_82,Rajasthan Royals,4,322.0,94.0,81.8,9.22,31.0,4.0,Bowler
+Player_83,Kolkata Knight Riders,23,1651.0,32.0,172.81,8.09,31.0,16.0,Wicket-Keeper
+Player_84,Royal Challengers Bangalore,9,1771.0,52.0,142.42,6.2,35.0,4.0,All-Rounder
+Player_85,Punjab Kings,7,246.44,4.98,159.24,5.95,1.02,9.34,Wicket-Keeper
+Player_86,Chennai Super Kings,9,233.0,97.0,139.38,10.28,1.0,7.0,Batsman
+Player_87,Mumbai Indians,38,1400.0,60.0,159.31,5.49,31.0,17.0,Wicket-Keeper
+Player_88,Rajasthan Royals,26,1012.0,59.0,153.75,9.74,18.0,19.0,Batsman
+Player_89,Mumbai Indians,25,772.0,53.0,86.3,11.24,46.0,4.0,Wicket-Keeper
+Player_90,Chennai Super Kings,45,1964.0,85.0,156.87,7.05,22.0,12.0,All-Rounder
+Player_91,Chennai Super Kings,31,132.0,96.0,84.8,5.0,15.0,2.0,Batsman
+Player_92,Delhi Capitals,3,1754.0,86.0,176.82,8.12,13.0,13.0,Bowler
+Player_93,Kolkata Knight Riders,29,142.0,16.0,102.7,10.27,15.0,12.0,Bowler
+Player_94,Royal Challengers Bangalore,45,276.23,8.52,141.47,7.13,7.28,10.13,Wicket-Keeper
+Player_95,Punjab Kings,4,369.0,28.0,133.22,5.05,30.0,2.0,Bowler
+Player_96,Royal Challengers Bangalore,9,1242.0,5.0,97.3,10.2,23.0,7.0,Batsman
+Player_97,Royal Challengers Bangalore,43,1626.0,31.0,105.3,6.13,31.0,2.0,Bowler
+Player_98,Delhi Capitals,27,860.0,55.0,108.98,10.37,44.0,12.0,All-Rounder
+Player_99,Sunrisers Hyderabad,21,1140.0,63.0,148.67,10.48,23.0,7.0,All-Rounder
+Player_100,Royal Challengers Bangalore,25,1368.0,73.0,115.06,11.0,45.0,0.0,Wicket-Keeper
+Player_101,Mumbai Indians,12,1239.0,27.0,162.56,10.92,38.0,10.0,Batsman
+Player_102,Sunrisers Hyderabad,16,1466.71,22.2,176.32,5.2,7.48,0.91,All-Rounder
+Player_103,Chennai Super Kings,21,148.0,0.0,96.02,9.93,32.0,13.0,All-Rounder
+Player_104,Royal Challengers Bangalore,23,1388.0,50.0,112.89,11.11,28.0,6.0,Batsman
+Player_105,Rajasthan Royals,37,73.67,34.23,115.82,8.95,11.01,1.01,Bowler
+Player_106,Mumbai Indians,44,1669.0,71.0,134.24,10.82,19.0,3.0,Bowler
+Player_107,Chennai Super Kings,18,1494.0,21.0,97.37,10.69,21.0,4.0,Wicket-Keeper
+Player_108,Mumbai Indians,35,1702.0,73.0,168.03,9.36,49.0,15.0,Bowler
+Player_109,Chennai Super Kings,37,26.0,53.0,163.6,11.66,13.0,7.0,Batsman
+Player_110,Punjab Kings,44,75.0,54.0,83.93,6.97,40.0,14.0,All-Rounder
+Player_111,Royal Challengers Bangalore,36,1991.0,4.0,127.72,8.14,27.0,10.0,Bowler
+Player_112,Kolkata Knight Riders,12,251.0,77.0,123.25,9.21,31.0,3.0,Wicket-Keeper
+Player_113,Chennai Super Kings,33,960.0,57.0,104.43,10.58,4.0,11.0,Bowler
+Player_114,Delhi Capitals,41,1621.0,73.0,103.17,7.9,47.0,13.0,Batsman
+Player_115,Rajasthan Royals,14,895.0,37.0,108.36,10.31,33.0,8.0,Wicket-Keeper
+Player_116,Sunrisers Hyderabad,30,834.0,87.0,158.87,6.53,43.0,6.0,Bowler
+Player_117,Chennai Super Kings,2,284.0,92.0,105.16,6.47,32.0,15.0,Wicket-Keeper
+Player_118,Chennai Super Kings,27,727.0,91.0,115.44,6.42,13.0,18.0,Batsman
+Player_119,Sunrisers Hyderabad,18,673.0,6.0,142.46,7.74,22.0,8.0,All-Rounder
+Player_120,Sunrisers Hyderabad,8,1199.0,89.0,84.38,5.81,0.0,6.0,Batsman
+Player_121,Royal Challengers Bangalore,46,486.0,12.0,119.28,10.05,12.0,5.0,Batsman
+Player_122,Mumbai Indians,40,726.0,61.0,82.08,11.2,19.0,19.0,Batsman
+Player_123,Chennai Super Kings,42,1340.0,92.0,103.64,11.66,25.0,10.0,Batsman
+Player_124,Mumbai Indians,31,772.0,82.0,110.2,8.89,43.0,6.0,All-Rounder
+Player_125,Royal Challengers Bangalore,44,857.68,17.3,120.33,6.06,24.9,17.26,All-Rounder
+Player_126,Delhi Capitals,26,1771.0,18.0,120.62,6.42,46.0,15.0,Wicket-Keeper
+Player_127,Rajasthan Royals,43,562.0,98.0,83.31,10.92,13.0,0.0,Bowler
+Player_128,Kolkata Knight Riders,46,1657.0,86.0,110.11,11.03,23.0,15.0,All-Rounder
+Player_129,Punjab Kings,42,1465.0,73.0,153.8,9.3,3.0,7.0,All-Rounder
+Player_130,Chennai Super Kings,22,28.0,66.0,159.81,9.36,27.0,6.0,Bowler
+Player_131,Mumbai Indians,47,322.0,59.0,118.72,7.0,41.0,14.0,All-Rounder
+Player_132,Royal Challengers Bangalore,15,646.0,87.0,85.0,5.09,22.0,6.0,Batsman
+Player_133,Mumbai Indians,24,173.0,59.0,172.84,7.46,46.0,2.0,Batsman
+Player_134,Delhi Capitals,39,426.0,86.0,138.68,6.43,21.0,14.0,Bowler
+Player_135,Delhi Capitals,7,1302.0,46.0,149.29,8.65,36.0,4.0,Wicket-Keeper
+Player_136,Rajasthan Royals,3,155.0,17.0,163.91,10.97,11.0,17.0,Wicket-Keeper
+Player_137,Punjab Kings,49,324.0,50.0,151.19,5.31,27.0,19.0,Bowler
+Player_138,Rajasthan Royals,44,1899.0,49.0,148.2,9.3,15.0,9.0,Bowler
+Player_139,Punjab Kings,9,983.0,52.0,173.49,11.28,31.0,16.0,Batsman
+Player_140,Kolkata Knight Riders,1,842.0,99.0,122.12,9.14,27.0,19.0,Wicket-Keeper
+Player_141,Delhi Capitals,22,1303.0,61.0,174.6,10.75,41.0,7.0,All-Rounder
+Player_142,Sunrisers Hyderabad,13,166.0,33.0,131.54,6.17,29.0,2.0,Batsman
+Player_143,Kolkata Knight Riders,23,621.0,86.0,116.18,6.27,7.0,5.0,Bowler
+Player_144,Delhi Capitals,15,1019.0,68.0,169.94,6.46,19.0,9.0,Wicket-Keeper
+Player_145,Chennai Super Kings,37,547.0,32.0,98.58,5.14,15.0,14.0,All-Rounder
+Player_146,Mumbai Indians,2,1038.0,92.0,117.13,7.56,11.0,8.0,All-Rounder
+Player_147,Punjab Kings,41,527.0,99.0,88.27,11.63,30.0,15.0,Batsman
+Player_148,Punjab Kings,32,1403.0,74.0,135.52,10.92,14.0,7.0,Wicket-Keeper
+Player_149,Chennai Super Kings,4,1204.0,29.0,158.07,10.45,19.0,1.0,Wicket-Keeper
+Player_150,Chennai Super Kings,28,1495.0,27.0,84.53,6.94,47.0,9.0,Bowler
+Player_151,Chennai Super Kings,17,785.0,18.0,96.9,8.72,36.0,0.0,Wicket-Keeper
+Player_152,Royal Challengers Bangalore,12,621.0,88.0,132.59,7.12,20.0,2.0,Wicket-Keeper
+Player_153,Royal Challengers Bangalore,46,443.0,67.0,150.51,5.27,48.0,3.0,Batsman
+Player_154,Mumbai Indians,18,1497.0,63.0,140.73,10.62,15.0,8.0,Wicket-Keeper
+Player_155,Chennai Super Kings,22,193.0,10.0,142.31,8.43,29.0,9.0,All-Rounder
+Player_156,Delhi Capitals,29,1313.62,92.94,144.56,6.67,49.21,0.0,Batsman
+Player_157,Delhi Capitals,49,845.0,4.0,137.64,8.19,24.0,1.0,Batsman
+Player_158,Punjab Kings,3,1077.0,8.0,137.45,8.01,5.0,8.0,Bowler
+Player_159,Rajasthan Royals,7,1833.0,0.0,173.64,11.05,0.0,5.0,Wicket-Keeper
+Player_160,Chennai Super Kings,5,1459.0,10.0,177.53,11.52,9.0,1.0,Bowler
+Player_161,Mumbai Indians,49,1503.0,49.0,146.1,11.89,29.0,17.0,All-Rounder
+Player_162,Delhi Capitals,17,138.0,65.0,159.35,11.33,40.0,9.0,Batsman
+Player_163,Delhi Capitals,42,1102.0,28.0,94.08,6.47,6.0,1.0,Batsman
+Player_164,Chennai Super Kings,26,14.0,7.0,93.28,7.44,44.0,10.0,Batsman
+Player_165,Delhi Capitals,37,87.0,70.0,93.19,7.35,17.0,16.0,All-Rounder
+Player_166,Delhi Capitals,43,1849.0,76.0,86.86,6.29,45.0,6.0,All-Rounder
+Player_167,Chennai Super Kings,2,1548.0,5.0,122.57,6.4,24.0,13.0,Bowler
+Player_168,Royal Challengers Bangalore,32,51.0,40.0,134.41,9.53,6.0,14.0,Bowler
+Player_169,Punjab Kings,31,1244.0,0.0,176.57,6.96,33.0,1.0,Bowler
+Player_170,Delhi Capitals,36,1692.0,80.0,145.02,5.46,36.0,19.0,Wicket-Keeper
+Player_171,Kolkata Knight Riders,17,2.0,18.0,134.72,9.28,15.0,6.0,Batsman
+Player_172,Royal Challengers Bangalore,30,1376.0,93.0,127.54,6.26,44.0,19.0,Batsman
+Player_173,Rajasthan Royals,15,1595.0,74.0,153.37,6.94,9.0,19.0,Bowler
+Player_174,Kolkata Knight Riders,9,842.68,94.46,130.42,12.48,40.72,19.95,Batsman
+Player_175,Sunrisers Hyderabad,8,1288.0,23.0,142.53,5.99,45.0,9.0,Bowler
+Player_176,Kolkata Knight Riders,41,259.0,8.0,94.59,9.18,44.0,10.0,Wicket-Keeper
+Player_177,Chennai Super Kings,8,1150.0,19.0,174.76,11.69,19.0,17.0,Wicket-Keeper
+Player_178,Sunrisers Hyderabad,8,736.0,43.0,120.04,9.62,45.0,18.0,All-Rounder
+Player_179,Delhi Capitals,18,1796.0,41.0,91.51,8.84,48.0,0.0,Wicket-Keeper
+Player_180,Mumbai Indians,2,408.0,17.0,132.38,5.39,25.0,16.0,Bowler
+Player_181,Royal Challengers Bangalore,24,462.0,19.0,142.7,8.38,20.0,1.0,Wicket-Keeper
+Player_182,Kolkata Knight Riders,42,1927.0,92.0,147.06,6.67,20.0,19.0,All-Rounder
+Player_183,Sunrisers Hyderabad,29,308.0,14.0,112.56,5.91,15.0,9.0,Batsman
+Player_184,Delhi Capitals,14,890.0,11.0,131.19,9.24,46.0,18.0,Bowler
+Player_185,Sunrisers Hyderabad,15,683.0,27.0,108.5,11.76,7.0,17.0,Batsman
+Player_186,Chennai Super Kings,13,529.15,8.58,100.61,12.33,31.18,13.77,All-Rounder
+Player_187,Chennai Super Kings,11,490.0,86.0,86.48,11.94,18.0,9.0,All-Rounder
+Player_188,Mumbai Indians,30,570.0,48.0,129.9,5.26,20.0,6.0,All-Rounder
+Player_189,Punjab Kings,23,1806.0,79.0,139.88,8.77,30.0,10.0,Batsman
+Player_190,Sunrisers Hyderabad,49,1824.0,71.0,179.25,5.49,7.0,16.0,Batsman
+Player_191,Kolkata Knight Riders,46,395.0,37.0,135.01,8.7,37.0,3.0,Batsman
+Player_192,Mumbai Indians,44,1048.0,33.0,121.2,8.37,49.0,11.0,Batsman
+Player_193,Mumbai Indians,25,171.0,57.0,174.84,10.29,15.0,1.0,All-Rounder
+Player_194,Rajasthan Royals,29,821.0,44.0,94.46,11.03,11.0,11.0,All-Rounder
+Player_195,Rajasthan Royals,48,1626.52,3.27,184.01,12.38,1.06,16.53,Bowler
+Player_196,Punjab Kings,16,1049.0,26.0,159.37,7.03,24.0,15.0,Bowler
+Player_197,Kolkata Knight Riders,12,1221.0,71.0,155.19,5.32,4.0,9.0,Batsman
+Player_198,Sunrisers Hyderabad,10,1548.0,92.0,165.82,7.56,10.0,0.0,Wicket-Keeper
+Player_199,Chennai Super Kings,42,1044.0,12.0,135.51,7.75,14.0,8.0,Wicket-Keeper
+Player_200,Rajasthan Royals,6,1598.0,19.0,144.94,5.36,1.0,13.0,All-Rounder
+Player_201,Mumbai Indians,34,324.0,69.0,137.2,9.69,39.0,6.0,All-Rounder
+Player_202,Delhi Capitals,30,273.0,71.0,122.96,6.19,49.0,17.0,All-Rounder
+Player_203,Delhi Capitals,39,1742.0,48.0,137.9,11.58,22.0,11.0,Bowler
+Player_204,Mumbai Indians,28,422.0,70.0,85.52,10.54,35.0,12.0,Bowler
+Player_205,Royal Challengers Bangalore,34,855.0,5.0,140.23,8.31,28.0,5.0,All-Rounder
+Player_206,Mumbai Indians,22,512.0,67.0,123.35,5.23,40.0,11.0,All-Rounder
+Player_207,Kolkata Knight Riders,46,1877.0,65.0,126.05,8.01,48.0,2.0,All-Rounder
+Player_208,Rajasthan Royals,22,112.0,81.0,85.41,6.0,11.0,3.0,Wicket-Keeper
+Player_209,Mumbai Indians,15,113.0,91.0,166.52,11.95,16.0,0.0,Bowler
+Player_210,Kolkata Knight Riders,34,943.34,0.0,99.42,9.98,43.65,13.81,Wicket-Keeper
+Player_211,Chennai Super Kings,25,1071.0,18.0,161.86,5.78,23.0,12.0,Wicket-Keeper
+Player_212,Delhi Capitals,23,535.78,10.47,151.97,7.88,38.68,7.31,All-Rounder
+Player_213,Kolkata Knight Riders,10,801.0,52.0,135.35,7.73,12.0,1.0,All-Rounder
+Player_214,Punjab Kings,45,1793.0,15.0,98.35,10.39,7.0,8.0,Batsman
+Player_215,Kolkata Knight Riders,9,105.0,5.0,112.9,7.55,17.0,4.0,Batsman
+Player_216,Mumbai Indians,8,1183.0,91.0,113.2,9.53,28.0,7.0,Wicket-Keeper
+Player_217,Sunrisers Hyderabad,18,711.0,19.0,134.11,8.62,22.0,16.0,Bowler
+Player_218,Chennai Super Kings,3,98.0,67.0,129.83,10.29,21.0,18.0,All-Rounder
+Player_219,Sunrisers Hyderabad,14,1960.0,86.0,84.35,6.53,42.0,18.0,All-Rounder
+Player_220,Mumbai Indians,23,1999.0,46.0,115.46,10.64,45.0,7.0,Wicket-Keeper
+Player_221,Rajasthan Royals,26,1971.0,77.0,177.33,10.87,31.0,18.0,Batsman
+Player_222,Mumbai Indians,3,602.0,22.0,139.85,8.57,4.0,14.0,Bowler
+Player_223,Sunrisers Hyderabad,37,1422.0,34.0,93.93,6.82,47.0,10.0,Batsman
+Player_224,Delhi Capitals,42,141.0,94.0,173.85,11.05,3.0,2.0,Batsman
+Player_225,Mumbai Indians,40,1895.0,83.0,161.19,11.17,25.0,9.0,Batsman
+Player_226,Punjab Kings,5,1858.0,8.0,137.49,11.02,24.0,6.0,Batsman
+Player_227,Kolkata Knight Riders,48,302.0,75.0,154.8,8.39,28.0,14.0,All-Rounder
+Player_228,Kolkata Knight Riders,17,423.0,38.0,148.01,9.15,0.0,13.0,All-Rounder
+Player_229,Royal Challengers Bangalore,4,370.0,60.0,136.1,7.3,15.0,1.0,Batsman
+Player_230,Sunrisers Hyderabad,36,1580.0,24.0,173.85,9.67,7.0,5.0,Bowler
+Player_231,Chennai Super Kings,19,1475.0,79.0,92.59,7.71,46.0,16.0,Wicket-Keeper
+Player_232,Kolkata Knight Riders,18,1548.0,56.0,156.9,7.29,47.0,15.0,Bowler
+Player_233,Rajasthan Royals,49,983.0,37.0,104.79,7.41,33.0,11.0,Bowler
+Player_234,Sunrisers Hyderabad,8,1292.0,98.0,158.16,6.34,49.0,12.0,Bowler
+Player_235,Chennai Super Kings,42,1712.0,6.0,131.51,7.6,37.0,11.0,Batsman
+Player_236,Kolkata Knight Riders,2,1770.0,9.0,130.59,9.99,46.0,11.0,All-Rounder
+Player_237,Rajasthan Royals,38,973.0,20.0,160.01,9.55,31.0,5.0,Bowler
+Player_238,Royal Challengers Bangalore,39,1064.0,24.0,98.58,7.13,42.0,15.0,Batsman
+Player_239,Royal Challengers Bangalore,11,243.0,36.0,106.26,6.12,21.0,3.0,Bowler
+Player_240,Rajasthan Royals,13,103.0,68.0,123.17,9.83,35.0,18.0,Bowler
+Player_241,Chennai Super Kings,21,639.0,27.0,129.12,11.44,23.0,14.0,Batsman
+Player_242,Royal Challengers Bangalore,40,679.0,0.0,135.94,7.64,13.0,16.0,All-Rounder
+Player_243,Royal Challengers Bangalore,15,1743.0,98.0,147.99,6.69,47.0,11.0,All-Rounder
+Player_244,Kolkata Knight Riders,28,1355.0,50.0,137.37,8.76,23.0,3.0,Wicket-Keeper
+Player_245,Chennai Super Kings,8,1299.0,63.0,178.55,9.51,45.0,7.0,Batsman
+Player_246,Punjab Kings,46,1623.0,73.0,123.25,11.73,21.0,13.0,Wicket-Keeper
+Player_247,Royal Challengers Bangalore,29,1946.0,33.0,159.33,10.9,0.0,16.0,Wicket-Keeper
+Player_248,Sunrisers Hyderabad,8,784.0,14.0,156.75,5.67,45.0,7.0,Wicket-Keeper
+Player_249,Sunrisers Hyderabad,4,1771.0,44.0,88.72,7.28,7.0,4.0,All-Rounder
+Player_250,Mumbai Indians,36,179.0,36.0,93.33,7.2,41.0,11.0,Batsman
+Player_251,Delhi Capitals,33,149.0,89.0,164.55,9.17,16.0,8.0,Wicket-Keeper
+Player_252,Delhi Capitals,13,96.0,78.0,90.68,5.61,45.0,18.0,Batsman
+Player_253,Sunrisers Hyderabad,16,1954.0,94.0,151.51,9.35,4.0,12.0,Batsman
+Player_254,Royal Challengers Bangalore,21,1308.0,64.0,179.43,10.21,10.0,13.0,All-Rounder
+Player_255,Punjab Kings,15,530.0,47.0,162.68,8.19,40.0,5.0,Wicket-Keeper
+Player_256,Delhi Capitals,33,1572.0,52.0,150.18,9.29,2.0,1.0,Wicket-Keeper
+Player_257,Chennai Super Kings,36,1329.0,0.0,86.6,8.8,15.0,7.0,Batsman
+Player_258,Royal Challengers Bangalore,43,1456.0,60.0,160.18,11.49,21.0,15.0,Bowler
+Player_259,Chennai Super Kings,45,1392.0,35.0,161.64,6.74,42.0,14.0,All-Rounder
+Player_260,Rajasthan Royals,39,1026.0,42.0,106.63,6.27,41.0,19.0,All-Rounder
+Player_261,Kolkata Knight Riders,1,118.0,46.0,107.64,9.62,20.0,1.0,All-Rounder
+Player_262,Rajasthan Royals,2,1207.0,81.0,103.83,6.02,19.0,13.0,All-Rounder
+Player_263,Kolkata Knight Riders,28,1998.0,45.0,139.83,10.62,34.0,18.0,Wicket-Keeper
+Player_264,Mumbai Indians,12,1779.0,87.0,175.41,11.67,10.0,7.0,Wicket-Keeper
+Player_265,Kolkata Knight Riders,38,1683.0,32.0,102.84,10.1,42.0,11.0,Bowler
+Player_266,Delhi Capitals,13,1796.0,76.0,84.09,5.24,36.0,5.0,All-Rounder
+Player_267,Royal Challengers Bangalore,44,1999.0,59.0,176.56,5.66,34.0,10.0,All-Rounder
+Player_268,Chennai Super Kings,29,1690.0,26.0,104.44,9.91,9.0,15.0,Batsman
+Player_269,Sunrisers Hyderabad,2,1403.0,30.0,151.63,7.77,7.0,5.0,Wicket-Keeper
+Player_270,Chennai Super Kings,27,1730.0,27.0,122.8,7.07,36.0,19.0,All-Rounder
+Player_271,Delhi Capitals,46,1020.0,68.0,170.31,11.85,6.0,4.0,Bowler
+Player_272,Kolkata Knight Riders,38,610.0,42.0,120.69,8.62,38.0,12.0,Bowler
+Player_273,Delhi Capitals,3,892.0,55.0,155.92,8.75,17.0,15.0,Wicket-Keeper
+Player_274,Mumbai Indians,9,1710.0,52.0,150.41,5.17,39.0,10.0,Bowler
+Player_275,Kolkata Knight Riders,22,169.0,92.0,169.52,9.24,9.0,13.0,Bowler
+Player_276,Rajasthan Royals,18,301.0,58.0,164.93,9.97,33.0,12.0,Wicket-Keeper
+Player_277,Kolkata Knight Riders,49,689.0,68.0,144.76,9.7,40.0,5.0,All-Rounder
+Player_278,Chennai Super Kings,30,146.0,83.0,130.32,10.32,35.0,17.0,All-Rounder
+Player_279,Chennai Super Kings,44,483.0,30.0,157.28,9.07,16.0,19.0,Bowler
+Player_280,Punjab Kings,30,826.0,30.0,83.17,11.23,23.0,14.0,Bowler
+Player_281,Delhi Capitals,1,807.03,4.61,93.64,10.14,38.96,8.06,All-Rounder
+Player_282,Royal Challengers Bangalore,48,1224.0,80.0,119.61,11.9,17.0,15.0,Wicket-Keeper
+Player_283,Punjab Kings,21,710.0,35.0,115.23,5.03,41.0,12.0,Bowler
+Player_284,Kolkata Knight Riders,34,1796.0,81.0,159.93,5.25,12.0,4.0,Batsman
+Player_285,Royal Challengers Bangalore,26,1828.0,62.0,85.44,9.88,42.0,8.0,Wicket-Keeper
+Player_286,Mumbai Indians,25,1744.0,97.0,158.98,6.32,43.0,10.0,Bowler
+Player_287,Sunrisers Hyderabad,19,273.0,20.0,173.81,9.12,23.0,2.0,Bowler
+Player_288,Rajasthan Royals,33,640.0,60.0,95.93,7.07,43.0,11.0,Batsman
+Player_289,Rajasthan Royals,48,89.0,90.0,93.1,6.37,21.0,2.0,Batsman
+Player_290,Mumbai Indians,39,228.0,18.0,99.21,10.89,21.0,13.0,All-Rounder
+Player_291,Chennai Super Kings,9,1604.0,77.0,134.6,6.64,27.0,9.0,Wicket-Keeper
+Player_292,Rajasthan Royals,21,1492.0,57.0,126.16,6.52,8.0,17.0,Wicket-Keeper
+Player_293,Sunrisers Hyderabad,18,678.0,45.0,91.15,11.92,26.0,0.0,All-Rounder
+Player_294,Chennai Super Kings,34,601.0,71.0,98.24,9.2,3.0,12.0,Wicket-Keeper
+Player_295,Chennai Super Kings,10,991.0,31.0,137.41,7.5,39.0,19.0,Wicket-Keeper
+Player_296,Rajasthan Royals,2,995.0,75.0,104.61,10.66,21.0,6.0,Wicket-Keeper
+Player_297,Rajasthan Royals,19,1761.0,16.0,104.4,7.95,20.0,2.0,Wicket-Keeper
+Player_298,Chennai Super Kings,30,542.0,96.0,137.84,6.23,17.0,9.0,Wicket-Keeper
+Player_299,Punjab Kings,16,252.0,15.0,141.41,5.7,23.0,18.0,Batsman
+Player_300,Mumbai Indians,24,1660.0,69.0,136.78,6.63,38.0,4.0,Wicket-Keeper
+Player_301,Mumbai Indians,6,1691.0,36.0,117.31,12.0,48.0,17.0,Batsman
+Player_302,Punjab Kings,11,1459.0,74.0,141.72,6.61,25.0,7.0,Wicket-Keeper
+Player_303,Royal Challengers Bangalore,13,627.0,6.0,158.06,11.21,7.0,12.0,All-Rounder
+Player_304,Sunrisers Hyderabad,26,388.0,31.0,81.7,7.39,47.0,16.0,Bowler
+Player_305,Sunrisers Hyderabad,20,1449.0,80.0,114.95,10.3,23.0,18.0,Batsman
+Player_306,Delhi Capitals,6,597.0,58.0,145.15,7.23,0.0,12.0,Wicket-Keeper
+Player_307,Chennai Super Kings,48,1141.0,77.0,129.75,10.7,34.0,1.0,All-Rounder
+Player_308,Delhi Capitals,4,1758.0,91.0,143.55,10.26,42.0,12.0,Bowler
+Player_309,Punjab Kings,9,891.0,64.0,85.97,11.88,7.0,6.0,Batsman
+Player_310,Delhi Capitals,17,1793.0,65.0,111.55,10.25,32.0,14.0,Bowler
+Player_311,Delhi Capitals,31,946.0,72.0,178.94,8.52,14.0,12.0,All-Rounder
+Player_312,Delhi Capitals,4,457.0,69.0,177.76,10.02,18.0,11.0,Batsman
+Player_313,Punjab Kings,19,1697.0,24.0,129.82,8.54,31.0,11.0,Bowler
+Player_314,Royal Challengers Bangalore,3,1050.0,94.0,145.87,10.65,34.0,2.0,Wicket-Keeper
+Player_315,Chennai Super Kings,36,1418.0,52.0,151.6,8.78,32.0,15.0,Batsman
+Player_316,Chennai Super Kings,14,433.0,43.0,124.53,6.73,16.0,1.0,Bowler
+Player_317,Mumbai Indians,44,263.57,29.31,114.24,10.89,33.97,20.4,All-Rounder
+Player_318,Punjab Kings,46,1157.0,25.0,154.68,6.62,30.0,16.0,All-Rounder
+Player_319,Sunrisers Hyderabad,49,1426.0,54.0,132.99,11.12,16.0,5.0,Batsman
+Player_320,Sunrisers Hyderabad,12,542.0,43.0,81.8,5.0,30.0,13.0,Bowler
+Player_321,Sunrisers Hyderabad,19,1686.0,13.0,161.41,6.52,25.0,2.0,Batsman
+Player_322,Kolkata Knight Riders,36,1144.0,81.0,122.21,10.78,41.0,1.0,Batsman
+Player_323,Punjab Kings,3,951.0,8.0,175.19,9.93,18.0,0.0,Bowler
+Player_324,Punjab Kings,34,505.0,30.0,134.23,8.79,4.0,9.0,Bowler
+Player_325,Sunrisers Hyderabad,22,1896.0,82.0,88.02,7.94,6.0,10.0,Wicket-Keeper
+Player_326,Chennai Super Kings,34,1576.0,96.0,142.2,7.45,14.0,19.0,Bowler
+Player_327,Kolkata Knight Riders,44,799.0,79.0,130.96,7.13,29.0,13.0,All-Rounder
+Player_328,Chennai Super Kings,22,1462.0,73.0,112.26,6.62,22.0,3.0,Batsman
+Player_329,Delhi Capitals,16,529.0,36.0,150.54,9.41,26.0,0.0,Batsman
+Player_330,Rajasthan Royals,8,1717.0,29.0,95.42,8.7,27.0,3.0,All-Rounder
+Player_331,Mumbai Indians,48,946.0,75.0,160.85,5.71,33.0,15.0,Bowler
+Player_332,Kolkata Knight Riders,35,627.0,7.0,150.94,5.93,32.0,1.0,All-Rounder
+Player_333,Rajasthan Royals,48,1589.0,11.0,128.01,11.01,42.0,11.0,All-Rounder
+Player_334,Sunrisers Hyderabad,34,778.02,37.44,131.98,9.25,10.16,9.66,Wicket-Keeper
+Player_335,Mumbai Indians,43,606.51,16.66,122.98,7.99,17.91,11.15,All-Rounder
+Player_336,Delhi Capitals,5,312.0,26.0,175.09,9.27,47.0,17.0,Batsman
+Player_337,Delhi Capitals,41,1035.46,6.23,109.24,6.52,16.37,12.45,All-Rounder
+Player_338,Rajasthan Royals,13,1041.0,90.0,93.07,7.82,12.0,12.0,Batsman
+Player_339,Royal Challengers Bangalore,14,1311.0,12.0,148.88,7.75,10.0,1.0,Batsman
+Player_340,Sunrisers Hyderabad,36,603.0,92.0,141.5,11.59,35.0,17.0,Batsman
+Player_341,Delhi Capitals,31,684.0,32.0,122.11,7.01,29.0,0.0,Bowler
+Player_342,Mumbai Indians,49,1117.0,27.0,92.13,10.8,23.0,17.0,Wicket-Keeper
+Player_343,Punjab Kings,44,1613.0,28.0,120.73,10.89,31.0,8.0,Batsman
+Player_344,Royal Challengers Bangalore,19,693.0,73.0,118.5,7.83,32.0,14.0,Batsman
+Player_345,Mumbai Indians,11,1874.0,64.0,114.75,7.39,29.0,10.0,Bowler
+Player_346,Kolkata Knight Riders,16,1356.0,68.0,93.17,9.88,23.0,11.0,Batsman
+Player_347,Delhi Capitals,17,1656.0,35.0,105.61,9.46,41.0,15.0,All-Rounder
+Player_348,Rajasthan Royals,13,1396.0,40.0,150.63,7.68,39.0,2.0,All-Rounder
+Player_349,Sunrisers Hyderabad,23,229.0,64.0,167.66,5.99,33.0,2.0,Wicket-Keeper
+Player_350,Kolkata Knight Riders,24,21.0,97.0,148.68,8.57,49.0,2.0,Batsman
+Player_351,Rajasthan Royals,43,50.0,44.0,109.41,9.83,29.0,13.0,Bowler
+Player_352,Royal Challengers Bangalore,18,433.0,95.0,126.81,8.82,3.0,18.0,All-Rounder
+Player_353,Punjab Kings,48,569.0,30.0,148.03,9.97,1.0,10.0,Bowler
+Player_354,Chennai Super Kings,47,1765.0,54.0,113.26,10.86,22.0,13.0,Bowler
+Player_355,Mumbai Indians,44,1971.0,55.0,86.17,11.65,15.0,15.0,All-Rounder
+Player_356,Delhi Capitals,39,1631.0,20.0,120.34,8.76,27.0,11.0,Bowler
+Player_357,Chennai Super Kings,9,1492.48,93.41,166.72,5.77,5.76,15.19,All-Rounder
+Player_358,Rajasthan Royals,46,317.0,27.0,141.41,5.23,41.0,16.0,Bowler
+Player_359,Delhi Capitals,9,441.0,38.0,164.51,8.55,10.0,15.0,All-Rounder
+Player_360,Sunrisers Hyderabad,11,837.0,27.0,124.18,8.71,46.0,11.0,Batsman
+Player_361,Sunrisers Hyderabad,28,824.0,51.0,92.35,7.61,36.0,11.0,Wicket-Keeper
+Player_362,Royal Challengers Bangalore,28,1365.97,90.97,159.49,6.47,33.05,9.58,All-Rounder
+Player_363,Royal Challengers Bangalore,13,1957.0,25.0,103.44,6.55,29.0,15.0,All-Rounder
+Player_364,Rajasthan Royals,10,22.0,57.0,87.6,9.34,49.0,2.0,Wicket-Keeper
+Player_365,Punjab Kings,37,447.0,82.0,129.49,9.15,19.0,5.0,All-Rounder
+Player_366,Delhi Capitals,40,1464.0,34.0,169.06,10.56,47.0,3.0,All-Rounder
+Player_367,Mumbai Indians,20,909.0,97.0,133.01,7.92,6.0,10.0,Bowler
+Player_368,Mumbai Indians,5,73.0,52.0,88.47,6.06,38.0,7.0,Wicket-Keeper
+Player_369,Chennai Super Kings,4,1929.0,19.0,138.19,5.96,11.0,12.0,Batsman
+Player_370,Sunrisers Hyderabad,42,848.0,95.0,165.86,8.02,42.0,15.0,All-Rounder
+Player_371,Royal Challengers Bangalore,12,202.0,92.0,122.93,9.88,35.0,2.0,Wicket-Keeper
+Player_372,Mumbai Indians,42,1448.28,45.94,126.02,6.0,38.36,6.01,Bowler
+Player_373,Rajasthan Royals,26,1086.0,2.0,157.14,5.79,2.0,16.0,Batsman
+Player_374,Delhi Capitals,7,1600.0,96.0,103.44,5.63,15.0,15.0,Wicket-Keeper
+Player_375,Royal Challengers Bangalore,39,865.77,92.63,150.52,9.68,25.52,15.51,Batsman
+Player_376,Chennai Super Kings,6,1208.0,48.0,137.36,10.7,34.0,6.0,Batsman
+Player_377,Delhi Capitals,49,332.0,1.0,121.76,7.38,36.0,9.0,Batsman
+Player_378,Delhi Capitals,23,1921.82,25.76,79.35,10.9,20.36,18.45,All-Rounder
+Player_379,Rajasthan Royals,37,271.0,87.0,153.48,5.52,16.0,9.0,All-Rounder
+Player_380,Royal Challengers Bangalore,4,132.0,71.0,134.8,6.08,4.0,4.0,Bowler
+Player_381,Royal Challengers Bangalore,42,481.0,75.0,153.72,9.51,31.0,3.0,Bowler
+Player_382,Mumbai Indians,37,1377.0,0.0,163.12,6.46,46.0,7.0,Wicket-Keeper
+Player_383,Rajasthan Royals,13,625.0,6.0,147.21,9.97,25.0,4.0,Bowler
+Player_384,Sunrisers Hyderabad,34,1688.0,34.0,141.57,9.46,4.0,9.0,Batsman
+Player_385,Punjab Kings,22,1595.87,42.11,145.97,6.02,38.22,15.92,Batsman
+Player_386,Sunrisers Hyderabad,9,1994.0,36.0,117.5,6.51,10.0,0.0,All-Rounder
+Player_387,Chennai Super Kings,38,1127.0,15.0,144.3,11.45,44.0,17.0,Batsman
+Player_388,Delhi Capitals,3,421.0,74.0,175.02,5.51,37.0,4.0,Wicket-Keeper
+Player_389,Rajasthan Royals,44,1889.42,10.08,107.15,7.99,50.06,13.04,Batsman
+Player_390,Mumbai Indians,46,409.0,85.0,142.15,9.53,45.0,3.0,Batsman
+Player_391,Delhi Capitals,13,1525.0,23.0,123.88,8.08,37.0,5.0,Wicket-Keeper
+Player_392,Sunrisers Hyderabad,42,467.0,18.0,113.4,10.15,9.0,1.0,Bowler
+Player_393,Sunrisers Hyderabad,3,107.0,12.0,164.56,6.94,16.0,3.0,Bowler
+Player_394,Kolkata Knight Riders,38,225.0,90.0,97.15,7.33,49.0,12.0,Wicket-Keeper
+Player_395,Mumbai Indians,7,2049.08,87.32,117.51,10.85,10.58,10.07,All-Rounder
+Player_396,Punjab Kings,40,164.0,53.0,111.42,6.71,14.0,3.0,Batsman
+Player_397,Sunrisers Hyderabad,11,1646.0,31.0,134.51,8.36,46.0,10.0,Wicket-Keeper
+Player_398,Delhi Capitals,3,527.0,43.0,80.94,10.67,36.0,13.0,Batsman
+Player_399,Punjab Kings,37,911.0,56.0,83.77,10.07,10.0,16.0,All-Rounder
+Player_400,Rajasthan Royals,7,1016.0,10.0,131.03,8.12,4.0,7.0,Batsman
+Player_401,Royal Challengers Bangalore,36,1781.0,50.0,108.84,5.36,13.0,7.0,Wicket-Keeper
+Player_402,Delhi Capitals,15,1146.0,26.0,103.72,7.6,34.0,0.0,Batsman
+Player_403,Royal Challengers Bangalore,33,679.0,56.0,160.97,6.87,6.0,17.0,Bowler
+Player_404,Sunrisers Hyderabad,11,1520.0,30.0,111.7,6.18,18.0,9.0,All-Rounder
+Player_405,Royal Challengers Bangalore,34,489.0,8.0,112.38,6.27,23.0,8.0,All-Rounder
+Player_406,Rajasthan Royals,40,1254.0,42.0,139.82,7.52,18.0,1.0,All-Rounder
+Player_407,Rajasthan Royals,34,204.58,78.69,138.69,8.59,30.26,17.93,Wicket-Keeper
+Player_408,Mumbai Indians,47,1023.0,90.0,91.05,5.46,46.0,9.0,All-Rounder
+Player_409,Royal Challengers Bangalore,44,139.4,50.9,95.37,5.9,34.49,16.5,Bowler
+Player_410,Delhi Capitals,27,751.25,91.62,110.93,5.91,47.45,14.56,Wicket-Keeper
+Player_411,Delhi Capitals,2,901.0,92.0,127.04,11.25,46.0,3.0,Bowler
+Player_412,Royal Challengers Bangalore,38,1168.0,86.0,116.4,10.47,6.0,12.0,Batsman
+Player_413,Chennai Super Kings,15,667.0,54.0,87.8,6.59,31.0,9.0,Batsman
+Player_414,Sunrisers Hyderabad,27,341.0,19.0,168.43,8.24,33.0,0.0,Batsman
+Player_415,Mumbai Indians,37,957.0,64.0,113.96,11.86,22.0,16.0,Batsman
+Player_416,Kolkata Knight Riders,44,1045.29,32.98,93.51,5.63,32.65,18.45,Bowler
+Player_417,Mumbai Indians,21,1291.0,19.0,106.26,9.9,9.0,8.0,Wicket-Keeper
+Player_418,Delhi Capitals,13,765.0,50.0,114.18,7.45,1.0,8.0,Wicket-Keeper
+Player_419,Royal Challengers Bangalore,39,1507.0,77.0,125.59,9.84,49.0,19.0,All-Rounder
+Player_420,Chennai Super Kings,34,1127.0,68.0,105.1,11.88,19.0,0.0,Bowler
+Player_421,Royal Challengers Bangalore,11,1185.0,37.0,102.29,10.65,12.0,11.0,Batsman
+Player_422,Punjab Kings,12,1591.0,67.0,105.17,10.03,6.0,13.0,Bowler
+Player_423,Punjab Kings,23,333.0,87.0,163.2,10.77,37.0,1.0,All-Rounder
+Player_424,Chennai Super Kings,37,129.0,70.0,104.57,5.98,17.0,0.0,All-Rounder
+Player_425,Delhi Capitals,36,127.0,72.0,173.01,9.15,47.0,14.0,Bowler
+Player_426,Punjab Kings,16,1139.0,55.0,114.97,11.78,21.0,9.0,Bowler
+Player_427,Delhi Capitals,15,40.0,53.0,85.22,10.56,38.0,14.0,Bowler
+Player_428,Royal Challengers Bangalore,31,595.0,16.0,84.72,9.02,46.0,19.0,Wicket-Keeper
+Player_429,Kolkata Knight Riders,1,1322.0,24.0,123.86,7.31,18.0,3.0,Batsman
+Player_430,Delhi Capitals,35,487.0,27.0,96.06,7.07,47.0,4.0,Bowler
+Player_431,Rajasthan Royals,47,116.0,58.0,168.92,5.99,2.0,6.0,Bowler
+Player_432,Punjab Kings,6,767.0,99.0,154.25,6.12,45.0,0.0,Bowler
+Player_433,Chennai Super Kings,20,1869.0,39.0,100.9,5.4,14.0,1.0,All-Rounder
+Player_434,Kolkata Knight Riders,36,1399.0,62.0,91.65,9.06,13.0,18.0,All-Rounder
+Player_435,Delhi Capitals,25,536.0,94.0,109.53,10.29,33.0,0.0,Wicket-Keeper
+Player_436,Mumbai Indians,33,1067.0,81.0,148.57,11.88,10.0,12.0,Batsman
+Player_437,Delhi Capitals,45,693.0,80.0,147.78,8.48,16.0,2.0,Wicket-Keeper
+Player_438,Punjab Kings,44,327.0,83.0,107.42,11.49,3.0,16.0,Batsman
+Player_439,Mumbai Indians,31,471.0,34.0,140.99,6.01,18.0,9.0,All-Rounder
+Player_440,Chennai Super Kings,6,1920.0,95.0,130.67,7.86,24.0,18.0,All-Rounder
+Player_441,Punjab Kings,41,802.88,65.11,167.97,8.74,40.97,17.1,All-Rounder
+Player_442,Royal Challengers Bangalore,39,72.0,38.0,123.59,11.41,0.0,18.0,Wicket-Keeper
+Player_443,Mumbai Indians,42,1071.0,6.0,113.39,5.67,1.0,12.0,Bowler
+Player_444,Sunrisers Hyderabad,46,1985.0,14.0,81.33,9.34,24.0,10.0,Bowler
+Player_445,Sunrisers Hyderabad,34,530.0,50.0,100.76,8.81,12.0,4.0,All-Rounder
+Player_446,Kolkata Knight Riders,16,1579.0,35.0,156.61,9.21,13.0,0.0,Bowler
+Player_447,Punjab Kings,1,1379.0,43.0,96.67,9.92,47.0,17.0,Bowler
+Player_448,Mumbai Indians,40,1712.0,5.0,94.6,5.29,43.0,10.0,Wicket-Keeper
+Player_449,Royal Challengers Bangalore,6,99.0,36.0,174.68,6.81,4.0,8.0,Batsman
+Player_450,Kolkata Knight Riders,14,1745.0,65.0,126.44,8.39,23.0,3.0,All-Rounder
+Player_451,Punjab Kings,14,1196.95,27.81,93.65,7.14,21.14,4.83,All-Rounder
+Player_452,Delhi Capitals,12,1785.0,56.0,98.44,9.03,16.0,15.0,Wicket-Keeper
+Player_453,Royal Challengers Bangalore,13,1860.0,19.0,144.44,11.46,40.0,7.0,Wicket-Keeper
+Player_454,Kolkata Knight Riders,1,1458.0,79.0,176.67,5.01,7.0,8.0,Bowler
+Player_455,Sunrisers Hyderabad,18,1752.0,33.0,121.67,7.9,1.0,9.0,All-Rounder
+Player_456,Mumbai Indians,41,56.0,81.0,140.53,7.9,10.0,3.0,Batsman
+Player_457,Chennai Super Kings,26,1593.0,84.0,156.12,5.98,19.0,15.0,Wicket-Keeper
+Player_458,Mumbai Indians,9,1795.0,1.0,121.11,7.4,26.0,13.0,Batsman
+Player_459,Punjab Kings,17,881.0,9.0,167.29,5.14,15.0,7.0,Batsman
+Player_460,Sunrisers Hyderabad,5,179.0,84.0,163.98,6.65,15.0,1.0,All-Rounder
+Player_461,Kolkata Knight Riders,25,1773.0,14.0,123.68,7.87,17.0,8.0,All-Rounder
+Player_462,Punjab Kings,4,1012.58,102.22,176.26,6.45,8.32,17.88,Wicket-Keeper
+Player_463,Mumbai Indians,24,1024.0,91.0,166.02,9.8,40.0,13.0,All-Rounder
+Player_464,Rajasthan Royals,3,1180.0,48.0,170.64,7.16,19.0,9.0,All-Rounder
+Player_465,Punjab Kings,46,130.0,90.0,162.85,8.34,20.0,2.0,All-Rounder
+Player_466,Punjab Kings,16,132.0,56.0,153.56,7.53,39.0,15.0,Batsman
+Player_467,Kolkata Knight Riders,41,1724.0,71.0,130.9,6.08,49.0,9.0,Wicket-Keeper
+Player_468,Sunrisers Hyderabad,19,635.0,27.0,125.26,5.94,23.0,6.0,Bowler
+Player_469,Delhi Capitals,1,1341.0,8.0,176.1,5.68,36.0,3.0,Batsman
+Player_470,Mumbai Indians,43,1773.0,52.0,99.43,11.42,37.0,12.0,All-Rounder
+Player_471,Rajasthan Royals,16,475.0,53.0,167.54,9.49,34.0,11.0,Batsman
+Player_472,Mumbai Indians,17,928.0,12.0,174.73,11.39,35.0,3.0,All-Rounder
+Player_473,Rajasthan Royals,19,138.0,47.0,117.52,7.91,14.0,13.0,All-Rounder
+Player_474,Chennai Super Kings,25,1828.0,70.0,162.15,7.83,37.0,10.0,Batsman
+Player_475,Punjab Kings,25,555.0,41.0,147.34,8.31,30.0,15.0,Wicket-Keeper
+Player_476,Rajasthan Royals,48,1530.79,90.78,166.55,9.3,42.92,17.61,All-Rounder
+Player_477,Delhi Capitals,17,1095.0,21.0,88.03,8.28,38.0,2.0,Wicket-Keeper
+Player_478,Punjab Kings,43,1135.0,47.0,138.48,8.07,6.0,9.0,Bowler
+Player_479,Rajasthan Royals,13,137.0,96.0,92.07,8.42,42.0,4.0,All-Rounder
+Player_480,Mumbai Indians,43,440.0,4.0,150.53,7.32,48.0,17.0,Wicket-Keeper
+Player_481,Mumbai Indians,42,1341.0,64.0,138.88,9.37,19.0,1.0,Wicket-Keeper
+Player_482,Mumbai Indians,5,1593.0,91.0,144.02,10.07,40.0,6.0,Bowler
+Player_483,Kolkata Knight Riders,30,335.0,77.0,100.89,6.87,31.0,16.0,Wicket-Keeper
+Player_484,Chennai Super Kings,27,96.0,38.0,160.52,10.58,42.0,17.0,Wicket-Keeper
+Player_485,Kolkata Knight Riders,45,445.0,23.0,135.94,10.79,41.0,10.0,Bowler
+Player_486,Royal Challengers Bangalore,40,485.91,22.36,107.16,9.04,36.5,18.16,All-Rounder
+Player_487,Royal Challengers Bangalore,15,1987.0,47.0,175.94,8.32,15.0,3.0,Wicket-Keeper
+Player_488,Kolkata Knight Riders,10,756.0,65.0,114.47,8.02,30.0,5.0,Wicket-Keeper
+Player_489,Kolkata Knight Riders,33,13.0,33.0,99.85,5.83,26.0,15.0,Wicket-Keeper
+Player_490,Mumbai Indians,42,589.0,69.0,106.35,11.15,33.0,14.0,Batsman
+Player_491,Sunrisers Hyderabad,32,33.0,95.85,121.66,5.52,32.3,10.19,Bowler
+Player_492,Mumbai Indians,42,1622.18,55.98,102.21,7.61,9.9,6.58,Batsman
+Player_493,Mumbai Indians,6,1437.0,79.0,125.47,9.07,6.0,4.0,Bowler
+Player_494,Kolkata Knight Riders,42,293.0,8.0,101.09,8.15,40.0,4.0,All-Rounder
+Player_495,Sunrisers Hyderabad,40,453.0,36.0,141.0,8.03,23.0,4.0,All-Rounder
+Player_496,Royal Challengers Bangalore,37,766.14,0.92,97.33,9.16,4.11,18.53,Wicket-Keeper
+Player_497,Delhi Capitals,48,1960.0,68.0,113.73,5.6,31.0,2.0,Bowler
+Player_498,Delhi Capitals,35,903.8,59.23,101.6,6.37,32.84,18.11,All-Rounder
+Player_499,Mumbai Indians,29,573.0,69.0,162.4,8.18,47.0,18.0,Bowler
+Player_500,Royal Challengers Bangalore,3,98.0,44.0,97.83,5.07,44.0,1.0,All-Rounder
